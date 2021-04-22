@@ -16,6 +16,9 @@
 4. **Khairul Amin bin Arifin [1729345]**
 5. **Ahmad Fakhruddin Faris Bin Zulkifli [1720823]**
 * * * * *
+## **:open_file_folder:PRESENTATION LINK:**
+https://youtu.be/RgwXGvJ2uaA
+* * * * *
 ## **:open_file_folder:RQUIERMENTS:**
 
 1. It contains 30/31 days based on the month of the year.
@@ -31,4 +34,4 @@
 * * * * *
 
 ## **:open_file_folder:PROJECT DISCRIPTION:**
-- ADD A SMALL DISCRIPTION AFTEER EVERYTHING IS DONE, HERE.
+-Group B is chosen to do Event Management System inside IIUM Gombak Campus. We try to put dates, venues and times for any event booking management inside the system. We made confirmation for the event booking from the organizer before securing their venue spot
